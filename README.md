@@ -1,9 +1,24 @@
-You can add custom words in words.txt
+# Hangman game
 
-After the game, the scoreboard.txt will automatically appear
+- You can start the program using `main.py`
 
-Pytest:
-1. Open folder Hangman
-2. Open cmd by folder
-3. If you dont have pytest install command: pip install pytest
-4. Type: pytest -q
+- User can add custom words in `words.txt`
+
+- After the game, the `scoreboard.txt` will automatically appear
+
+
+
+
+
+
+## Pytest
+### How to test:
+- Open cmd by folder
+- Install pytest
+```
+pip install pytest
+```
+- Start test:
+```
+pytest -q
+```
