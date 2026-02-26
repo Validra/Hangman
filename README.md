@@ -18,7 +18,7 @@
 ```
 pip install pytest
 ```
-- Start test:
+- Start test
 ```
 pytest -q
 ```
